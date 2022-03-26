@@ -1,4 +1,4 @@
-# React Native 計算機
+# React Native 計算機App
 
 # 使用技術
 
